@@ -20,4 +20,9 @@ Insights :
 -Gender Sales Comparison
 -Order Status
 
+
+
+
+
+
 <img width="1326" height="669" alt="DASHBOARD" src="https://github.com/user-attachments/assets/ab1413f6-d5f3-4d6d-bf9f-426be07b0b8f" />
